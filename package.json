@@ -1,0 +1,14 @@
+{
+  "name": "express_website",
+  "version": "1.0.0",
+  "description": "Simple express website",
+  "main": "index.js",
+  "author": "Vitalii Terentjev",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "nodemailer": "*",
+    "pug": "^2.0.3"
+  }
+}
